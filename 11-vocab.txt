@@ -1,0 +1,3 @@
+0:Manual
+1:MANUAL
+2:AUTO
